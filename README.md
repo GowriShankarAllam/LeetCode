@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GowriShankarAllam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
