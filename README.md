@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/GowriShankarAllam/LeetCode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
