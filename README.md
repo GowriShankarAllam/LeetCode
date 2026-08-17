@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/GowriShankarAllam/LeetCode/tree/master/0709-to-lower-case) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/GowriShankarAllam/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
