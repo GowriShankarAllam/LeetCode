@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/GowriShankarAllam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/GowriShankarAllam/LeetCode/tree/master/0709-to-lower-case) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GowriShankarAllam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/GowriShankarAllam/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GowriShankarAllam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GowriShankarAllam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GowriShankarAllam/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
