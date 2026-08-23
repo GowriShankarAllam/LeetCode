@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GowriShankarAllam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/GowriShankarAllam/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/GowriShankarAllam/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GowriShankarAllam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/GowriShankarAllam/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/GowriShankarAllam/LeetCode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/GowriShankarAllam/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/GowriShankarAllam/LeetCode/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/GowriShankarAllam/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
