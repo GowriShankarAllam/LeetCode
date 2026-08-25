@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/GowriShankarAllam/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/GowriShankarAllam/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GowriShankarAllam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/GowriShankarAllam/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/GowriShankarAllam/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
