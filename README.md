@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GowriShankarAllam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/GowriShankarAllam/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/GowriShankarAllam/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/GowriShankarAllam/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GowriShankarAllam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/GowriShankarAllam/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/GowriShankarAllam/LeetCode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
