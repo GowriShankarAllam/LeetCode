@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/GowriShankarAllam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GowriShankarAllam/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/GowriShankarAllam/LeetCode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/GowriShankarAllam/LeetCode/tree/master/0709-to-lower-case) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/GowriShankarAllam/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/GowriShankarAllam/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/GowriShankarAllam/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/GowriShankarAllam/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/GowriShankarAllam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GowriShankarAllam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GowriShankarAllam/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GowriShankarAllam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/GowriShankarAllam/LeetCode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/GowriShankarAllam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GowriShankarAllam/LeetCode/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/GowriShankarAllam/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
